@@ -14,7 +14,7 @@ function reports($q,$ms) { $s="";
 			$s.=	'<tr>';
 			$s.=		'<td align="left">';
 			$s.=			'<div class="form-table-line">';
-			$s.=				'<a class="form-table-link" href="#report" data-path="http://mauric.ru/_upload/files/'.$r->NAME_FILE.'">';
+			$s.=				'<a class="form-table-link" href="#report" data-path="http://izhmfc.ru/_upload/files/'.$r->NAME_FILE.'">';
 			$s.=					$r->CAPTION;
 			$s.=				'</a>';
 			$s.=			'</div>';
